@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/luchohero/Hola-Mundo-Heroku/issues"
   },
-  "homepage": "https://github.com/luchohero/Hola-Mundo-Heroku#readme"
+  "homepage": "https://github.com/luchohero/Hola-Mundo-Heroku#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
 }
