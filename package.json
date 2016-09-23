@@ -1,11 +1,23 @@
 {
   "name": "holam",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Hola Mundo Node - Github",
   "main": "app.js",
   "scripts": {
     "test": "node app"
   },
   "author": "Lucho Hero",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luchohero/Hola-Mundo-Heroku.git"
+  },
+  "bugs": {
+    "url": "https://github.com/luchohero/Hola-Mundo-Heroku/issues"
+  },
+  "homepage": "https://github.com/luchohero/Hola-Mundo-Heroku#readme"
 }
